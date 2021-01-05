@@ -12,4 +12,5 @@ or
 ```Import-Module "{FullPath}\selenium-powershell\Selenium.psd1"```
 
 # Usage
-```.\adamukki.ps1 -url "http://intamema.com/5djC"```
+Run this file with url as parameter and just watch :p
+```.\adamukki.ps1 -url http://intamema.com/5djC```
